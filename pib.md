@@ -21,13 +21,13 @@ Cell voltage and temperatures
 | 14       | 110D           | 电芯14                  | Cell14                | 2        | 26            | V        | 0.001     | 0           | 1             | CellInfo     | 1             |
 | 15       | 110E           | 电芯15                  | Cell15                | 2        | 28            | V        | 0.001     | 0           | 1             | CellInfo     | 1             |
 | 16       | 110F           | 电芯16                  | Cell16                | 2        | 30            | V        | 0.001     | 0           | 1             | CellInfo     | 1             |
-| 17       | 1110           | 电池温度1                 | Cell temperature 1    | 2        | 32            | ℃        | 0.1       | 0           | 1             | OtherInfo    | 1             |
-| 18       | 1111           | 电池温度2                 | Cell temperature 2    | 2        | 34            | ℃        | 0.1       | 0           | 1             | OtherInfo    | 1             |
-| 19       | 1112           | 电池温度3                 | Cell temperature 3    | 2        | 36            | ℃        | 0.1       | 0           | 1             | OtherInfo    | 1             |
-| 20       | 1113           | 电池温度4                 | Cell temperature 4    | 2        | 38            | ℃        | 0.1       | 0           | 1             | OtherInfo    | 1             |
-| 21       | 1114           | 电池温度5                 | Cell temperature 5    | 2        | 40            | ℃        | 0.1       | 0           | 0             | OtherInfo    | 1             |
-| 22       | 1115           | 电池温度6                 | Cell temperature 6    | 2        | 42            | ℃        | 0.1       | 0           | 0             | OtherInfo    | 1             |
-| 23       | 1116           | 电池温度7                 | Cell temperature 7    | 2        | 44            | ℃        | 0.1       | 0           | 0             | OtherInfo    | 1             |
-| 24       | 1117           | 电池温度8                 | Cell temperature 8    | 2        | 46            | ℃        | 0.1       | 0           | 0             | OtherInfo    | 1             |
-| 25       | 1118           | 环境温度                  | Ambient temperature   | 2        | 48            | ℃        | 0.1       | 0           | 1             | OtherInfo    | 1             |
-| 26       | 1119           | 功率温度                  | Power temperature     | 2        | 50            | ℃        | 0.1       | 0           | 1             | OtherInfo    | 1             |
+| 17       | 1110           | 电池温度1                 | Cell temperature 1    | 2        | 32            | Kelvin       | 0.1       | 0           | 1             | OtherInfo    | 1             |
+| 18       | 1111           | 电池温度2                 | Cell temperature 2    | 2        | 34            | Kelvin       | 0.1       | 0           | 1             | OtherInfo    | 1             |
+| 19       | 1112           | 电池温度3                 | Cell temperature 3    | 2        | 36            | Kelvin       | 0.1       | 0           | 1             | OtherInfo    | 1             |
+| 20       | 1113           | 电池温度4                 | Cell temperature 4    | 2        | 38            | Kelvin        | 0.1       | 0           | 1             | OtherInfo    | 1             |
+| 21       | 1114           | 电池温度5                 | Cell temperature 5    | 2        | 40            | Kelvin      | 0.1       | 0           | 0             | OtherInfo    | 1             |
+| 22       | 1115           | 电池温度6                 | Cell temperature 6    | 2        | 42            | Kelvin       | 0.1       | 0           | 0             | OtherInfo    | 1             |
+| 23       | 1116           | 电池温度7                 | Cell temperature 7    | 2        | 44            | Kelvin       | 0.1       | 0           | 0             | OtherInfo    | 1             |
+| 24       | 1117           | 电池温度8                 | Cell temperature 8    | 2        | 46            | Kelvin       | 0.1       | 0           | 0             | OtherInfo    | 1             |
+| 25       | 1118           | 环境温度                  | Ambient temperature   | 2        | 48            | Kelvin       | 0.1       | 0           | 1             | OtherInfo    | 1             |
+| 26       | 1119           | 功率温度                  | Power temperature     | 2        | 50            | Kelvin        | 0.1       | 0           | 1             | OtherInfo    | 1             |
